@@ -1,4 +1,4 @@
-name: Publish GLS Mobile UI Library to Maven Central
+name: Publishing GLS Mobile UI Library
 
 permissions:
   contents: read
